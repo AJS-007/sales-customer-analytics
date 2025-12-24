@@ -1,4 +1,4 @@
- Key Business Insights
+## Key Business Insights
 
 - North and West regions generate the highest revenue
 - Revenue shows consistent month-over-month growth
@@ -7,7 +7,7 @@
 - Repeat customers are increasing, indicating healthy retention
 - Dependency on top customers presents moderate risk
 
- Recommendations
+ ##Recommendations
 
 - Invest more in North and West regions
 - Introduce loyalty programs for high-value customers
