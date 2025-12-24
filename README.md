@@ -38,7 +38,7 @@ Relational integrity is enforced using primary keys and foreign keys.
 - Time-based analysis using YEAR and MONTH
 - Customer lifetime value (CLV)
 - Month-over-month growth analysis
-- indexing
+- indexes
 
 ## Project Structure
 sales-customer-analytics/
